@@ -12,12 +12,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    position: fixed;
 }
 
 .calculator{
     background: #000000;
     padding: 20px;
     border-radius: 10px;
+    position: fixed;
 }
 
 .calculator form input{
